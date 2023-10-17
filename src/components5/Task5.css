@@ -1,0 +1,25 @@
+input[type="Date"]{
+    border: 1px solid rgba(107, 104, 104, 0.311);
+    border-radius: 5px;
+    margin-bottom: 10px;
+    width: 25%;
+    padding: 10px;
+    
+  }
+  
+  .age_calculator{
+    text-align: center;
+  }
+  
+  button{
+    background-color: rgb(3, 158, 255);
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    border:0px;
+    width: 10%;
+  }
+  
+  body{
+    margin-top: 15%;
+  }
